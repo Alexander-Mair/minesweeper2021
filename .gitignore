@@ -260,8 +260,3 @@ paket-files/
 __pycache__/
 *.pyc
 
-*.vcxproj
-*.vcxproj.filters
-stdafx.h
-stdafx.cpp
-targetver.h
