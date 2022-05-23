@@ -1,7 +1,6 @@
 // Original_Minesweeper.cpp : Defines the entry point for the console application.
 //
 
-
 #include <vector>
 #include <string>
 #include <iostream>
